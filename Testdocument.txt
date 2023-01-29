@@ -1,0 +1,9 @@
+Lage en ny branch: git branch "navn"
+
+Se branches: git branch
+
+Bytte branch: git checkout/switch "navn"
+
+Lokalt slette branch: git branch -d navn
+
+Remote slette branch: git push origin --delete navn
